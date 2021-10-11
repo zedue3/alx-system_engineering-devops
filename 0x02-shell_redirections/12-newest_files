@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 10 file_name
+ls -Art | tail -n 10
