@@ -1,2 +1,2 @@
 #!/bin/bash
-find DIR_NAME -type f | wc -l
+find . -type d | wc -l
